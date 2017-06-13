@@ -1,4 +1,4 @@
 
-public class master {
+public class Master {
 
 }
